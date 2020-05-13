@@ -10,7 +10,7 @@ version opencv -> 4.2.0
 
 3.-En la consola hacer correr el archivo main_wg
 
-python main_wg.py
+python main.py
 
 4.-Apareceran las dos imagenes originales utilizadas.
 5.- Una vez que se abran cerrarlas y revisar el resultado en el lugar en el que se ejecuto el archivo.
